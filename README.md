@@ -1,2 +1,2 @@
 # Red Panda Films 🦊🦊
-# Contact: martin@redpandafilms.co.uk
+# Contact: mailto:martin@redpandafilms.co.uk
